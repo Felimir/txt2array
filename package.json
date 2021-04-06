@@ -1,0 +1,27 @@
+{
+  "name": "txt2array",
+  "version": "0.0.1",
+  "description": "Convierte datos de un archivo.txt a un Array o matriz de JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Felimir/txt2array.git"
+  },
+  "keywords": [
+    "txt2array",
+    "texttoarray",
+    "textoarray"
+  ],
+  "author": "Felimir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Felimir/txt2array/issues"
+  },
+  "homepage": "https://github.com/Felimir/txt2array#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
